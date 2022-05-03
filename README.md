@@ -24,7 +24,9 @@ Apart from the SVI data, we also provide a raster file that enables the grid-bas
 
 All data in the sample dataset was obtained under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
-## Expected output
+## Expected outputs
+
+The expected output for each quality element, if the sample dataset is used:
 
 1. Spatial coverage
 <div align=center>
