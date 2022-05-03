@@ -35,7 +35,7 @@ The expected output for each quality element, if the sample dataset is used:
 
 2. Spatial continuity
 <div align=center>
-<img src="expected_outputs/spatial-continuity.png" width=”350px">
+<img src="expected_outputs/spatial-continuity.png" width=”100px">
 </div>
 
 3. Count
