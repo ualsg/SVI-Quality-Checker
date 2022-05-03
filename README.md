@@ -30,17 +30,17 @@ The expected output for each quality element, if the sample dataset is used:
 
 1. Spatial coverage
 <div align=left>
-<img src="expected_outputs/spatial-coverage.png" width="700">
+<img src="expected_outputs/spatial-coverage.png" width="500">
 </div>
 
 2. Spatial continuity
 <div align=left>
-<img src="expected_outputs/spatial-continuity.png" width="350">
+<img src="expected_outputs/spatial-continuity.png" width="250">
 </div>
 
 3. Count
 <div align=left>
-<img src="expected_outputs/count.png" width="700">
+<img src="expected_outputs/count.png" width="500">
 </div>
 
 4. Age of the most recent coverage
