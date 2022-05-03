@@ -28,7 +28,7 @@ All data in the sample dataset was obtained under the [CC BY-NC-SA 4.0](https://
 
 1. Spatial coverage
 <div align=center>
-<img src="https://github.com/ualsg/SVI-Quality-Checker/blob/main/spatial-coverage.png" width="700px">
+<img src="expected_output/spatial-coverage.png" width="700px">
 </div>
 
 2. Spatial continuity
