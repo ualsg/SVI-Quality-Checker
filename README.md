@@ -29,17 +29,17 @@ All data in the sample dataset was obtained under the [CC BY-NC-SA 4.0](https://
 The expected output for each quality element, if the sample dataset is used:
 
 1. Spatial coverage
-<div align=center>
+<div align=left>
 <img src="expected_outputs/spatial-coverage.png" width="700">
 </div>
 
 2. Spatial continuity
-<div align=center>
+<div align=left>
 <img src="expected_outputs/spatial-continuity.png" width="350">
 </div>
 
 3. Count
-<div align=center>
+<div align=left>
 <img src="expected_outputs/count.png" width="700">
 </div>
 
