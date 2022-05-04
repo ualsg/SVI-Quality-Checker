@@ -18,7 +18,7 @@ A total of 9 quality elements are evaluated in the notebook with their spatial v
 ### Sample dataset
 For demonstration, we provide a set of Mapillary SVI data from a 2 km x 2 km area in Kowloon, Hong Kong for running the notebook. This includes:
 * A metadata file, obtained from the [Mapillary API](https://www.mapillary.com/developer/api-documentation)
-* A folder of sample images, obtained from [Mapillary](https://www.mapillary.com/)
+* A zip file of sample images, obtained from [Mapillary](https://www.mapillary.com/)
 
 Apart from the SVI data, we also provide a raster file that enables the grid-based analysis, obtained from [WorldPop](https://www.worldpop.org/).
 
