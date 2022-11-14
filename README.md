@@ -78,7 +78,24 @@ The expected output for each quality element, if the sample dataset is used:
 The sample dataset can be downloaded from [Google drive](https://drive.google.com/file/d/1UtAKOO5cgtqEQ7e4T4RiFkETmnLKO4El/view?usp=sharing).
 
 ## Reference, citation, and documentation
-A paper is in progress, and the citation will be added here.
+
+A [paper](https://doi.org/10.1016/j.jag.2022.103094) about the work was published in the _International Journal of Applied Earth Observation and Geoinformation_ and it is available open access.
+
+If you use this work in a scientific context, please cite this article.
+
+Hou Y, Biljecki F (2022): A comprehensive framework for evaluating the quality of street view imagery. International Journal of Applied Earth Observation and Geoinformation, 115: 103094. doi:10.1016/j.jag.2022.103094
+
+```
+@article{2022_jag_svi_quality, 
+  year = {2022}, 
+  title = {{A comprehensive framework for evaluating the quality of street view imagery}}, 
+  author = {Hou, Yujun and Biljecki, Filip}, 
+  journal = {International Journal of Applied Earth Observation and Geoinformation}, 
+  doi = {10.1016/j.jag.2022.103094}, 
+  pages = {103094}, 
+  volume = {115}
+}
+```
 
 ## License
 This dataset is released under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
